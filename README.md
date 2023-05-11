@@ -16,5 +16,7 @@ This is a simple web project, deployment be on any web server or even local syst
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copright 
 223 Git.Training. 
